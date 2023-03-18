@@ -12,7 +12,7 @@ const introdata = {
         third: "Golden rule of level design - Finish your first level last.",
     },
     description: "I am currently in the final year of my Bachelor's of Technology Degree in Computer Science and Engineering. An aspiring Game and XR Developer.",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: "https://www.linkpicture.com/q/l_21.jpeg",
 };
 
 const dataabout = {
