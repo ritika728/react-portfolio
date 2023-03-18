@@ -73,28 +73,29 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
+        img: "https://www.linkpicture.com/q/p2.jpeg",
         desctiption: "Describes the progress of connected players in a Virtual Reality Game to a disconnected player once it relogs in the room.",
         link: "https://github.com/heenathadani/VR-Mitacs",
     },
 
     {
-        img: "https://picsum.photos/400/?grayscale",
+        img: "https://www.linkpicture.com/q/f_8.jpg",
         desctiption: "A typical Temple Run with collectible coins, interactable obstacles, and an infinite run with an optimized memory management system.",
         link: "https://github.com/heenathadani/EndlessRunner"
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
+        img: "https://www.linkpicture.com/q/p5.jpeg",
         desctiption: "An AR app that will spice up your home decor using 3D sunflowers.",
         link: "https://github.com/heenathadani/3DMockAR-Room"
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
+        img: "https://www.linkpicture.com/q/k_2.jpg",
         desctiption: "A Role-Playing Game divided into 2 primary phases: the gameplay and the graphics covering concepts of OOPS",
         link: "https://github.com/heenathadani/pvpRPG"
     },
+    
     {
-        img: "https://picsum.photos/400/?grayscale",
+        img: "https://www.linkpicture.com/q/p4_6.png",
         desctiption: "Web tool designed to complete tasks and maintain a list of chores that must be prioritized.",
         link: "https://github.com/heenathadani/queue-up"
     },
