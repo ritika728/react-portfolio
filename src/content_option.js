@@ -16,7 +16,7 @@ const introdata = {
 };
 
 const dataabout = {
-    title: "abit about my self",
+    title: "Abit about my self",
     aboutme: "I am currently in the final year of my Bachelor's of Technology Degree in Computer Science and Engineering. An aspiring Game and XR Developer.",
 };
 const worktimeline = [{
