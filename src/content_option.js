@@ -36,7 +36,12 @@ const worktimeline = [{
     },
 ];
 
-const skills = [{
+const skills = [
+    {
+        name: "Unity3D",
+        value: 90,
+    },
+    {
         name: "C#",
         value: 90,
     },
@@ -99,59 +104,6 @@ const dataportfolio = [{
         link: "https://github.com/heenathadani/3DMockAR-Room"
     },
   
-    
-    
-    // {
-    //     img: "https://picsum.photos/400/?grayscale",
-    //     desctiption: "A typical Temple Run with collectible coins, interactable obstacles, and an infinite run with an optimized memory management system.",
-    //     link: "#"
-    // },
-    // {
-    //     img: "https://picsum.photos/400/600/?grayscale",
-    //     desctiption: "TA Role-Playing Game divided into 2 primary phases: the gameplay and the graphics covering concepts of OOPS. ",
-    //     link: "#",
-    // },
-    // {
-    //     img: "https://picsum.photos/400/300/?grayscale",
-    //     desctiption: "Web tool designed to complete tasks and maintain a list of chores that must be prioritized.",
-    //     link: "#",
-    // },
-    // {
-    //     img: "https://picsum.photos/400/700/?grayscale",
-    //     desctiption: " An AR app that will spice up your home decor using 3D sunflowers.",
-    //     link: "#",
-    // },
-
-    // {
-    //     img: "https://picsum.photos/400/600/?grayscale",
-    //     desctiption: " An AR app that will spice up your home decor using 3D sunflowers.",
-    //     link: "#",
-    // },
-    // {
-    //     img: "https://picsum.photos/400/300/?grayscale",
-    //     desctiption: " An AR app that will spice up your home decor using 3D sunflowers.",
-    //     link: "#",
-    // },
-    // {
-    //     img: "https://picsum.photos/400/?grayscale",
-    //     desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
-    // {
-    //     img: "https://picsum.photos/400/550/?grayscale",
-    //     desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
-    // {
-    //     img: "https://picsum.photos/400/?grayscale",
-    //     desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
-    // {
-    //     img: "https://picsum.photos/400/700/?grayscale",
-    //     desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
 ];
 
 const contactConfig = {
