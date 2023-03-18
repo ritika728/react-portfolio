@@ -55,7 +55,7 @@ export const QuestGaming = () => {
           </Col>
         </Row>
         <Row>
-        <a href="https://discord.gg/ArE4gnjvgq" className="text_2 quest_discord">
+        <a href="https://discord.gg/ArE4gnjvgq" target="_blank" className="text_2 quest_discord">
                     <div id="button_h" className="ac_btn btn ">
                       JOIN OUR DISCORD COMMUNITY
                       <div className="ring one"></div>
