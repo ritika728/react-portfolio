@@ -6,7 +6,11 @@
     -moz-column-gap: 4rem;
     -webkit-column-gap: 4rem;
 }
-
+body{
+    background: var(--bg-color);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .po_item {
     display: inline-block;
     width: 100%;

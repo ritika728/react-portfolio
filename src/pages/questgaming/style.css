@@ -11,6 +11,11 @@
     border-color: var(--text-color) !important;
 }
 
+.quest_info{
+    font-size: 20px;
+    text-align: justify;
+}
+
 .progress-title {
     font-size: 16px;
     font-weight: 700;
@@ -99,6 +104,8 @@
     }
 }
 
-.resume_btn{
-    margin-top: -20px;
+.quest_discord{
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: -50px;
 }

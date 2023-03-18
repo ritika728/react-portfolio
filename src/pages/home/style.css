@@ -6,9 +6,12 @@ section {
     -o-transition: all .5s ease-in;
     transition: all .5s ease-in;
 }
-
 .who_am_I {
     font-family: Cinzel;
+}
+
+.btn2{
+    margin-top: 20px;
 }
 
 .has-first-color {
@@ -99,7 +102,7 @@ section {
 }
 
 .ac_btn {
-    padding: 4px 19px;
+    padding: 4px 15px;
     color: var(--secondary-color);
     position: relative;
     border: var(--secondary-color) 2px solid;
@@ -107,7 +110,7 @@ section {
     transition: all 0.6s cubic-bezier(0.55, 0, 0.1, 1);
     cursor: pointer;
     border-radius: 0;
-    margin-right: 20px;
+    margin-right: 25px;
 }
 
 .ac_btn a {
@@ -163,6 +166,12 @@ section {
     z-index: -2;
     transition: all 0.7s cubic-bezier(0.55, 0, 0.1, 1);
     z-index: -3;
+}
+
+.btn2{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
 }
 
 #button_p {

@@ -1,5 +1,7 @@
 import React from "react";
 import "./style.css";
+import "../home/style.css"
+import { Link } from "react-router-dom";
 import { Helmet, HelmetProvider } from "react-helmet-async";
 import { Container, Row, Col } from "react-bootstrap";
 import {
@@ -28,12 +30,21 @@ export const About = () => {
         <Row className="sec_sp">
           <Col lg="5">
             <h3 className="color_sec py-4">{dataabout.title}</h3>
+            <a href="https://drive.google.com/drive/folders/1x9E-kN1v7be_y8Mi5yO_wBshwveXd9yk" target="_blank" className="text_2">
+                    <div id="button_h" className="ac_btn btn resume_btn ">
+                      Resume
+                      <div className="ring one"></div>
+                      <div className="ring two"></div>
+                      <div className="ring three"></div>
+                    </div>
+                  </a>
           </Col>
           <Col lg="7" className="d-flex align-items-center">
             <div>
               <p>{dataabout.aboutme}</p>
             </div>
           </Col>
+
         </Row>
         <Row className=" sec_sp">
           <Col lg="5">
@@ -95,6 +106,7 @@ export const About = () => {
           </Col>
         </Row>
       </Container>
+      
     </HelmetProvider>
   );
 };
